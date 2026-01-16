@@ -1,9 +1,9 @@
-# Portfolio website (Vercel)
+# Old portfolio website (Vercel)
 
 > Roland Levy's projects / contact details / downloadable CV
 
-+ [Live website - hosted by Netlify](https://rolandlevy.co.uk)
-+ [Subdomain on Vercel: rolandlevy.vercel.app/](https://rolandlevy.vercel.app/)
++ [New website: rolandlevy.co.uk - hosted by Vercel](https://rolandlevy.co.uk)
++ [Old website: rolandlevy.vercel.app/](https://rolandlevy.vercel.app/)
 + [Source code on repl.it](https://replit.com/@RolandJLevy/portfolio-website-hosted-by-vercel) 
 + [Github repo](https://github.com/rolandjlevy/portfolio-website-hosted-by-vercel)
 
